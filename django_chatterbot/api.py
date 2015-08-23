@@ -4,11 +4,15 @@ from rest_framework import status
 from chatterbot import ChatBot
 
 
-chatterbot = ChatBot('Example ChatterBot')
+chatterbot = ChatBot('Talkie Toaster')
 
 chatterbot.train([
-    "Hi",
-    "How are you?"
+    "No",
+    "How 'bout a muffin?",
+    "Yes",
+    "Great, and d'ya also want a bagel?",
+    "No",
+    "Would you like a teacake?",
 ])
 
 
