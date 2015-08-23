@@ -1,6 +1,6 @@
-# Django ChatterBot
+# Talkie Toaster Chatterbot
 
-This is a Django project that shows how create a simple chat bot web app using
-[Django](https://www.djangoproject.com),
-[Django REST framework](http://www.django-rest-framework.org) and
+Based on:
 [ChatterBot](https://github.com/gunthercox/ChatterBot).
+
+And customised to be more like Talkie...
